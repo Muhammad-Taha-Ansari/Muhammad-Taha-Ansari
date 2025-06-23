@@ -82,6 +82,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Taha&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Muhammad-Taha&theme=tokyonight" />
 </p>
-
