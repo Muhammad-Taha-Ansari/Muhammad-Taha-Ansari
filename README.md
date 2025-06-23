@@ -74,16 +74,14 @@
 
 ---
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Taha-Ansari&layout=compact&theme=tokyonight&langs_count=6&hide=java,shell" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Taha&layout=compact&theme=tokyonight&langs_count=6&hide=scss,shell,java,batch" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Taha&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&hide_rank=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Taha-Ansari&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Taha&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Taha-Ansari&theme=tokyonight" />
-</p>
