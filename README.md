@@ -71,9 +71,14 @@
 <p align="left" size="small">
 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 </p>
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
 <p align="center">
-  <img src="https://github.com/Muhammad-Taha-Ansari/Muhammad-Taha-Ansari/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Muhammad-Taha-Ansari/Muhammad-Taha-Ansari/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
+
 ---
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -87,3 +92,18 @@
   <img src="https://github-readme-streak-stats.vercel.app/?user=Muhammad-Taha-Ansari&theme=tokyonight" />
 
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Taha-Ansari/Muhammad-Taha-Ansari/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Muhammad-Taha-Ansari/Muhammad-Taha-Ansari/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Taha-Ansari&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Taha-Ansari&theme=default" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Taha-Ansari&theme=tokyonight" alt="GitHub Streak" />
+  </picture>
+</p>
+
